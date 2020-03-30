@@ -5,6 +5,9 @@ a project to resurrect a dead maytag dishwasher using a rpi zero w
 * a working dishwasher with a broken control panel
 * a rpi zero w
 * a soldering kit
+* a micrometer
+* plumbing stuff to remove/add dishwasher
+* screwdrivers for your dumb dishwasher
 * a 12v to microusb converter
 
 ## TODO
