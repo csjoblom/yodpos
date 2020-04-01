@@ -1,0 +1,20 @@
+{
+  "name": "yodpos-backend",
+  "version": "1.0.0",
+  "description": "backend service for interfacing with an old piece of shit dishwasher",
+  "main": "app.js",
+  "dependencies": {
+    "pigpio": "^3.0.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/csjoblom/yodpos"
+  },
+  "author": "Chris Sjoblom",
+  "license": "MIT"
+}
